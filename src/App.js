@@ -9,16 +9,16 @@ function App() {
         <CurrentLocation />
       </div>
       <div className="footer-info">
-        <a href="https://www.htmlhints.com/article/how-to-create-toggle-switch/93">
+        <a href="https://github.com/Abhishek-singh-007/Klimate">
           Download Source Code
-        </a>{" "}
-        | Developed by{" "}
-        <a target="_blank" href="https://www.gauravghai.dev/">
-          Gaurav Ghai
+        </a>
+        {""}| Developed by{" "}
+        <a target="_blank" href="https://my-portfolio-six-tau-59.vercel.app/">
+          Abhishek Singh
         </a>{" "}
         | Powered by{" "}
-        <a target="_blank" href="https://www.htmlhints.com/">
-          HTML HINTS
+        <a target="_blank" href="https://my-portfolio-six-tau-59.vercel.app/">
+          AbhiTech
         </a>
       </div>
     </React.Fragment>
